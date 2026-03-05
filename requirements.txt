@@ -1,0 +1,9 @@
+jugaad-data
+yfinance
+pandas
+numpy
+ta
+requests
+tabulate
+rich
+schedule
